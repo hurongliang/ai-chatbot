@@ -1,6 +1,6 @@
 # 介绍
 
-这是文章 [搭建智能问答机器人](http://hurongliang.com/2020/10/19/ai-chatbot.html)的工程源码。
+这是文章 [搭建智能问答机器人](https://hurongliang.com/2020/10/19/ai-chatbot.html)的工程源码。
 
 实现了简单的智能问答应用。
 
