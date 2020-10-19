@@ -1,9 +1,3 @@
-# 介绍
-
-这是文章 《》的服务端工程实现源码。实现了简单的智能问答应用。
-
-输入问答列表，训练模型，一个智能智能问答机器人便生成了！
-
 # 准备
 
 下载USE模型，链接：https://storage.googleapis.com/tfhub-modules/google/universal-sentence-encoder-multilingual-large/3.tar.gz。
