@@ -1,6 +1,6 @@
 # 准备
 
-下载USE模型，链接：https://storage.googleapis.com/tfhub-modules/google/universal-sentence-encoder-multilingual-large/3.tar.gz。
+下载USE模型，链接：https://storage.googleapis.com/tfhub-modules/google/universal-sentence-encoder-multilingual-large/3.tar.gz 
 
 将其解压到 `chatbot/models/large-3`，目录结构如下：
 
