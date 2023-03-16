@@ -31,11 +31,11 @@ docker run -d --name milvus_cpu \
 -p 19530:19530 \
 -p 19121:19121 \
 -p 9091:9091 \
--v /root/milvus/db:/var/lib/milvus/db \
--v /root/milvus/conf:/var/lib/milvus/conf \
--v /root/milvus/logs:/var/lib/milvus/logs \
--v /root/milvus/wal:/var/lib/milvus/wal \
-milvusdb/milvus:0.8.0-cpu-d041520-464400
+-v ~/docker/milvus/db:/var/lib/milvus/db \
+-v ~/docker/milvus/conf:/var/lib/milvus/conf \
+-v ~/docker/milvus/logs:/var/lib/milvus/logs \
+-v ~/docker/milvus/wal:/var/lib/milvus/wal \
+milvusdb/milvus
 
 ```
 
